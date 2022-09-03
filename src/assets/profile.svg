@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Test_User" data-name="Test User" transform="translate(-238 -26)">
+    <g id="User_Icon" data-name="User Icon" transform="translate(238 26)">
+      <g id="Ellipse_5" data-name="Ellipse 5" fill="#fff" stroke="#13d106" stroke-width="3">
+        <circle cx="18" cy="18" r="18" stroke="none"/>
+        <circle cx="18" cy="18" r="16.5" fill="none"/>
+      </g>
+      <g id="user" transform="translate(11.143 9.818)">
+        <path id="Path_7" data-name="Path 7" d="M17.714,20.143V18.429A3.429,3.429,0,0,0,14.286,15H7.429A3.429,3.429,0,0,0,4,18.429v1.714" transform="translate(-4 -4.247)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="4" cy="3.5" rx="4" ry="3.5" transform="translate(2.857 0.182)" fill="none" stroke="#3d3d3d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
